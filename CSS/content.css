@@ -1,0 +1,26 @@
+h1
+{
+	border: double;
+	color: rgb(128,0,0);
+	font-size: 47px;
+	display: flex;
+	justify-content: center;
+}
+img
+{
+	height: 250px;
+	width:  250px;
+}
+.content-image
+{
+	display: flex;
+	justify-content: center;
+
+}
+
+.content{background-color: rgb(255,250,205);}
+p
+{
+	
+	font-size: 120%;
+}
